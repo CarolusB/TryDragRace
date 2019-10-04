@@ -94,7 +94,7 @@ MonoBehaviour:
   m_MinSize: {x: 613, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 125
+  controlID: 124
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,8 +135,8 @@ MonoBehaviour:
     y: 0
     width: 1069
     height: 947
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 122}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 15}
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 86
+  controlID: 85
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -356,14 +356,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/CHB_Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\c.bentein\MyUnity\Drag Race
+  m_LastProjectPath: C:\Users\c.bentein\Documents\Projects\TryDragRace\TryDragRace\Drag
+    Race
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46300000
-    m_LastClickedID: 12358
-    m_ExpandedIDs: 00000000122d000000ca9a3b
+    m_SelectedIDs: b42c0000
+    m_LastClickedID: 11444
+    m_ExpandedIDs: 00000000942c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -391,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000942c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -656,7 +657,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c300000
+      m_SelectedIDs: 92260000
       m_LastClickedID: 0
       m_ExpandedIDs: 6efbffff
       m_RenameOverlay:

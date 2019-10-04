@@ -27,6 +27,7 @@ public class DragRace : MonoBehaviour
 
         for (int i = 0; i < contestants.Length; i++)
         {
+            //Create two contestants with random top speed and acceleration
             contestants[i] = new Dragster(Random.Range(450f, 520f), Random.Range(11f, 15f));
         }
     }
